@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.svg
+!web/static/**
+attention.json
+attention.svg
+out/
+.DS_Store
+.sesskey
